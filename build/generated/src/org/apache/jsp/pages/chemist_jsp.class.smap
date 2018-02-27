@@ -1,0 +1,16 @@
+SMAP
+chemist_jsp.java
+JSP
+*S JSP
+*F
++ 0 chemist.jsp
+pages/chemist.jsp
+*L
+5,18:50
+23:68,10
+24,2:78
+25:79,2
+26,3:81
+29,55:85
+83,5:140
+*E
